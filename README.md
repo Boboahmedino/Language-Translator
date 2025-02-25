@@ -21,10 +21,9 @@
 3. [Features](#features)
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
-6. [Preview of Core Files](#preview-of-core-files)
-7. [Contributing](#contributing)
-8. [Author](#author)
-9. [License](#license)
+6. [Contributing](#contributing)
+7. [Author](#author)
+8. [License](#license)
 
 ---
 
