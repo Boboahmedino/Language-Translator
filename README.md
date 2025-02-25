@@ -5,8 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python 3.9+">
-  <img src="https://img.shields.io/badge/Django-4.0%2B-success.svg" alt="Django 4.0+">
-  <img src="https://img.shields.io/badge/License-MIT-orange.svg" alt="License: MIT">
+  <img src="https://img.shields.io/badge/Django-5.0%2B-success.svg" alt="Django 5.0+">
   <img src="https://img.shields.io/badge/Deep--Translator-Enabled-informational.svg" alt="Deep-Translator Enabled">
 </p>
 
