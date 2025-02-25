@@ -92,7 +92,7 @@ This project showcases:
 
 ### Prerequisites
 - **Python 3.9+**  
-- **Django 4.0+**  
+- **Django 5.0+**  
 - **pipenv** or **virtualenv** (recommended)
 
 ### Installation Steps
